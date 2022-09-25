@@ -19,7 +19,7 @@ function removew(f){
    if(f.propertyName!=="transform"){
       return;
    }else{
-      this.classList.remove("playing");\ja
+      this.classList.remove("playing");
    }
 }
 
